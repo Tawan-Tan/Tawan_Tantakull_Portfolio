@@ -3,8 +3,8 @@
 This repository shows my projects when i was at university and various projects about Machine Learning by using Python (Jupiter Notebook). Click on the projects to see details.
 
 ## Certificates
-- [Coursera SQL for Data Science](https://github.com/TawanTan/Tawan-Tantakull-Portfolio/blob/master/My_certificate/Coursera%20SQL%20for%20Data%20Science.pdf)
-- [Coursera The Data Scientist’s Toolbox](https://github.com/TawanTan/Tawan-Tantakull-Portfolio/blob/master/My_certificate/Coursera%20The%20Data%20Scientist%E2%80%99s%20Toolbox.pdf)
+- [Coursera SQL for Data Science](https://github.com/TawanTan/Tawan_Tantakull_Portfolio/blob/master/My_certificate/Coursera%20SQL%20for%20Data%20Science.pdf)
+- [Coursera The Data Scientist’s Toolbox](https://github.com/TawanTan/Tawan_Tantakull_Portfolio/blob/master/My_certificate/Coursera%20The%20Data%20Scientist%E2%80%99s%20Toolbox.pdf)
 
 ## Project
 
