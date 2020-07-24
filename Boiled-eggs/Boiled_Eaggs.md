@@ -1,8 +1,8 @@
 # Funny Boiled Eggs 
 
-&emsp;This project was a part of the Design of Engineer Experiment course while I was studying at university. To study and understandingthe experiment with 2<sup>k</sup> factorial designs by using ```Minitab``` program to analyze. Click here to see project [original version](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Boiled-eggs/Full_report_Eggs.pdf)  
+&emsp;This project was a part of the Design of Engineer Experiment course while I was studying at university. To study and understandingthe experiment with 2<sup>k</sup> factorial designs by using ```Minitab``` program to analyze. Click here to see project [original version](https://github.com/TawanTan/Tawan_Tantakull_Portfolio/blob/master/Boiled-eggs/Full_report_Eggs.pdf)  
 &emsp;In my province Buddha Sothorn buddha statue is very famous. People believe that they must worship him with many many boiled eggs like thousand. So we need many eggs with inside are cooked and all solid. But we still want to save the production cost as much as possible. Therefore, we designed this experiment by using The 2<sup>k</sup> factorial design to find the factors and treatment for boiling the eggs with inside are cooked and all solid.  
-![Sothron](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/SothornEggs.jpeg)
+![Sothron](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/SothornEggs.jpeg)
 
 ## Experiment design
 
@@ -12,7 +12,7 @@
 - Water level
 ### Response
 - Level of boiled eggs By following the levels as shown below
-![EggsLeavels](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/EggsLevels.jpg)
+![EggsLeavels](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/EggsLevels.jpg)
 
 ### Treatment combination
 Boils eggs by following contrast coefficients 2<sup>3</sup> table below  
@@ -48,12 +48,12 @@ Boils eggs by following contrast coefficients 2<sup>3</sup> table below
 |  7  	|	80	|	12  |	0.8   |   5   |
 |  8  	|	95	|  	12 	|	0.8   |   8   |
  
- ![cubeplot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/2kCube.png)
+ ![cubeplot](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/2kCube.png)
  
  - If the analysis results from the 2<sup>k</sup> factorial method shows two or more factors, use the experimental point(treatment) increase in 2<sup>k</sup> factorial.
  - If there is only 1, use the One-Way ANOVA design.
 
-![EffectGraph](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/EffectGraph.png "title-1") ![EffectChart](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/EffectChart.png "title-1")
+![EffectGraph](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/EffectGraph.png "title-1") ![EffectChart](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/EffectChart.png "title-1")
 
 &emsp; The normal plot of the estimator of all influences and Pareto Chart shows that ```A (temperature)``` has a significant impact on the ripeness level of boiled eggs.
 
@@ -69,7 +69,7 @@ Boils eggs by following contrast coefficients 2<sup>3</sup> table below
 
 #### Model Adequacy Checking
 
-![NormPlot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/Normal_plot.png "title-1") ![TimeSeq](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/TimeSeq.png "title-2") ![V](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/ConVariance.png "title-3")
+![NormPlot](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/Normal_plot.png "title-1") ![TimeSeq](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/TimeSeq.png "title-2") ![V](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/ConVariance.png "title-3")
 
 &emsp; Shows that the data obtained from the results are suitable to the statistical model of the 2<sup>3</sup> factorial
 
@@ -93,7 +93,7 @@ Boils eggs by following contrast coefficients 2<sup>3</sup> table below
 
 #### Model Adequacy Checking
 
-![NormPlot2](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/Normal_plot2.png "title-1") ![TimeSeq2](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/TimeSeq2.png "title-2") ![V2](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/ConVariance2.png "title-3")
+![NormPlot2](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/Normal_plot2.png "title-1") ![TimeSeq2](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/TimeSeq2.png "title-2") ![V2](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/ConVariance2.png "title-3")
 
 - From the first one you can see that the graph has a trend in linear, showing that the data obtained from the experiment has normal distribution.  
 - From the second one, you can see that there are no pattern signs indicating the abnormalities of data.  

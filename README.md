@@ -8,9 +8,9 @@ This repository shows my projects when i was at university and various projects 
 
 ## Project
 
-### [Productivity Impovement of Printed Circuit Board Manufacturing Process by Line Balancing Technique](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Line-Balancing/Intership_project.pdf)  
+### [Productivity Impovement of Printed Circuit Board Manufacturing Process by Line Balancing Technique](https://github.com/TawanTan/Tawan_Tantakull_Portfolio/blob/master/Line-Balancing/Intership_project.pdf)  
 
-![PCB](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Line-Balancing/PCB.png)
+![PCB](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Line-Balancing/PCB.png)
 
 My internship project
 - Gather data by using Direct time study and Micromotion study 
@@ -18,24 +18,24 @@ My internship project
 - 7 QC Tool such as Why-Why annalysis and Fishbone diagram
 - Man&Machine Chart and ECRS to improve process
 - Comparison of %Utilization and Cost savings  
-- Click here to see [Full report](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Line-Balancing/Full_report.pdf)
+- Click here to see [Full report](https://github.com/TawanTan/Tawan_Tantakull_Portfolio/blob/master/Line-Balancing/Full_report.pdf)
 
 ---
 
-### [Project Feasibility Saling Jeans](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Project-Feasibility-Study/Project_Feas_Jeans_in_mor.pdf)
+### [Project Feasibility Saling Jeans](https://github.com/TawanTan/Tawan_Tantakull_Portfolio/blob/master/Project-Feasibility-Study/Project_Feas_Jeans_in_mor.pdf)
 
-![Jeans](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Project-Feasibility-Study/JeansCover.png)
+![Jeans](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Project-Feasibility-Study/JeansCover.png)
 - PESTLE Analysis, Five Force Model
 - Marketing Strategy and Demand Analysis (Forecasting)
     - Linear Regression
     - Exponentail
     - Quadratic
 - Financial plans and investment budgets
-- Click here to see [Full report](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Project-Feasibility-Study/Full_report_Jeans.pdf)
+- Click here to see [Full report](https://github.com/TawanTan/Tawan_Tantakull_Portfolio/blob/master/Project-Feasibility-Study/Full_report_Jeans.pdf)
 
 ---
 
-### [Rain in Australia Prediction](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Rain-in-Australia-Prediction/Rain-in-Australia-Prediction.ipynb)
+### [Rain in Australia Prediction](https://github.com/TawanTan/Tawan_Tantakull_Portfolio/blob/master/Rain-in-Australia-Prediction/Rain-in-Australia-Prediction.ipynb)
 ![Rain](https://media1.tenor.com/images/735e68b36fb24b5cadda815230daad05/tenor.gif?itemid=13649339)
 - Predict whether it will rain tomorrow or not.
 - The dataset contains 2008 - 2017 (10 years) of Australian weather data.
@@ -50,7 +50,7 @@ My internship project
 
 ---
 
-### [Used Cars Price Prediction](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Used-Cars-Price-Prediction/Used-Cars-Price-Prediction.ipynb)
+### [Used Cars Price Prediction](https://github.com/TawanTan/Tawan_Tantakull_Portfolio/blob/master/Used-Cars-Price-Prediction/Used-Cars-Price-Prediction.ipynb)
 ![Cars](https://live.staticflickr.com/5052/5503668485_33e8c42932_w.jpg)
 - Predict used cars price in United States on Craigslist.
 - Used 4 models to predict.
@@ -62,10 +62,11 @@ My internship project
 
 ---
 
-### [Funny Boiled Eggs](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Boiled-eggs/Boiled_Eaggs.md)
+### [Funny Boiled Eggs](https://github.com/TawanTan/Tawan_Tantakull_Portfolio/blob/master/Boiled-eggs/Boiled_Eaggs.md)
 
-![Eggs](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/CoverImage.jpg)  
-![2kplot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/2kCube.png)
+![Eggs](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/CoverImage.jpg)  
+![2kplot](https://raw.githubusercontent.com/TawanTan/Tawan_Tantakull_Portfolio/master/Boiled-eggs/2kCube.png)
+
 - Designed experiment by using The 2<sup>k</sup> factorial
 - Used One-Way ANOVA for single factor experiment
 - Checking Model Adequacy 
